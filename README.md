@@ -35,7 +35,7 @@ Features:
 5. Month
 6. Optional: Aggregate sanitation data to a borough level (See Rodent data)”
 
-# Licence
+# License
 
 There are no restrictions on the use of this program: it may be redistributed and/or modified under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, either version 3 of the License or (at your option) any later version.
 
