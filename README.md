@@ -1,6 +1,6 @@
 # NY-Sanitation-Project
 
-This repository provides code for optimizing resource allocation in waste management using a prediction model. This code uses New York City sanitation data that includes average weather, population of a particular borough, community district, and business type to predict trash tonnage.
+This repository provides code for predicting the volumes of various waste streams in New York City by borough and month using a prediction model, which could be used to optimize resource allocation in waste management. This code uses New York City sanitation data that includes average weather, population of a particular borough, community district, and business type to predict trash tonnage.
 
 A Python 3.x environment needs to be installed in order to execute this code successfully.
 
