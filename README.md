@@ -13,16 +13,16 @@ As a reference, the following is taken from the problem declaration:
 You can find data from New York Sanitation at
 https://data.cityofnewyork.us/City-Government/DSNY-Monthly-Tonnage-Data/ebb7-mvp5
 
-Labels:
+Labels (Amount of Tonnage Collected per type of trash):
 
-1. Amount of Tonnage (per type of trash)
-2. RefuseTons
-3. PaperTons
-4. MGPTons
-5. ResOrganicTons
-6. SchoolOrganicTons
-7. LeavesOrganicTons
-8. XmasTreeTons
+
+1. RefuseTons (General Trash)
+2. PaperTons (Recyclable paper)
+3. MGPTons (Recyclable metal, glass, and plastics)
+4. ResOrganicTons (Organic waste (yard waste, food scraps) collected from homes)
+5. SchoolOrganicTons (Organic waste (yard waste, food scraps) collected from schools)
+6. LeavesOrganicTons (Leaves collected from streets during the fall (Seasonal))
+7. XmasTreeTons (Christmas trees collected from homes (Seasonal))
 
 Features:
 
